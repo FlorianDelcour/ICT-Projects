@@ -3,6 +3,5 @@ Projects realized as part of the course Information and coding theory given by L
 # Academic Year
 2021-2022
 # Authors 
-Aliocha Makedonsky
-
-Florian Delcour
+*Aliocha Makedonsky
+*Florian Delcour
